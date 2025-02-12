@@ -1,2 +1,3 @@
 Test auto git commit
 API_KEY=AIzaSyDaGmWKa4JsXZ-HjGw7ISLn_3namBGewQe
+
